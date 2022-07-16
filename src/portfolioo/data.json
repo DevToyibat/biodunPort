@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "img": "portfolioImg/group1.JPG",
+    "title": "LSETF SERVER ADMINISTRATORS",
+    "desc": "Lagos State Employment Trust Fund program on the raw installation of network infrastucture, implementation of server deployment and backups "
+  },
+
+  {
+    "id": "2",
+    "img": "portfolioImg/everyone.JPG",
+    "title": "LOFTYINC CLOUD ADMINISTRATORS",
+    "desc": "A three month intense training with LoftyInc successful applicants, on the proper usage and importance of cloud computing."
+  },
+
+  {
+    "id": "3",
+    "img": "portfolioImg/conversation.JPG",
+    "title": "USADF SERVER ADMINISTRATOR",
+    "desc": "Integration of lync server and client for Skype for business in conjunction with the United States African Development Programme"
+  }
+]
